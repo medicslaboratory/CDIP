@@ -1,4 +1,4 @@
-#CDIP Version 1.0 
+# CDIP Version 1.0 
 
 CDIP Version 1.0 is the version currently used by the following studies:
 
