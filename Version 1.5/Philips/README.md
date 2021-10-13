@@ -1,1 +1,1 @@
-CDIP version 1.5 Exam for Philips Healthcare scanners
+CDIP Version 1.5 Exam cards for Philips Healthcare scanners
